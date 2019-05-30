@@ -6,3 +6,19 @@
 #about{
 	background-color: #fff;
 }
+
+#shop{
+	padding: 7% 15%;
+	background-color: #fff;
+}
+
+/*Headings*/
+.big-heading{
+	font-size: 4.5rem;
+}
+
+.small-heading{
+	text-align: center;
+	font-size: 4rem;
+
+}
