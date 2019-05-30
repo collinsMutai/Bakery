@@ -19,6 +19,7 @@
 	background-color: #fff;
 }
 
+
 /*Headings*/
 .big-heading{
 	font-size: 4.5rem;
@@ -36,6 +37,9 @@
 
 }
 
+.paragraph-text{
+	font-size: 2rem;
+}
 /*Featured Cakes Images*/
 
 .featuredCakes{
