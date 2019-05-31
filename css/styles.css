@@ -1,19 +1,11 @@
-#home{
+/*Sections*/
+/*Home Section*/
+.home{
 	padding: 7% 15%;
+	text-align: center;
 	background-color: #ffc5a1;
 }
 
-#featured-cakes{
-	text-align: center;
-}
-
-#shop{
-	padding: 7% 15%;
-	background-color: #fff;
-}
-
-
-/*Headings*/
 .big-heading{
 	font-size: 4.5rem;
 	color: #fff;
@@ -23,6 +15,24 @@
 	
 	font-size: 2.5rem;
 }
+
+
+/*Featured Cakes Section*/
+.featured-cakes{
+	padding: 7% 15%;
+	background-color: #ffc5a1;
+}
+
+#cakes-section{
+	padding: 7% 15%;
+	background-color: #ffc5a1;
+	text-align: center;
+}
+
+
+
+/*Headings*/
+
 
 .small-heading{
 	text-align: center;
@@ -41,9 +51,19 @@
 	font-size: 4rem;
 }
 
-.paragraph-text{
-	font-size: 2rem;
+.paragraph-heading{
+	/*text-align: center;*/
+	font-size: 3rem;
 }
+
+.paragraph-text{
+	font-size: 1.5rem;
+}
+
+.ul-text{
+	font-size: 1.5rem;
+}
+
 /*Featured Cakes Images*/
 
 .featuredCakes{
@@ -55,11 +75,8 @@
 #contact-us{
 	text-align: center;
 	padding: 7% 15%;
-	background-color: #ffc5a1;
-
-
+	background-color: #fff;
 }
-
 
 #footer {
     background-color: #000000;
