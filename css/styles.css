@@ -51,6 +51,22 @@
 	height: 225px;
 }
 
+/*Call Us Section*/
+#contact-us{
+	text-align: center;
+	padding: 7% 15%;
+	background-color: #ffc5a1;
+
+
+}
+
+
+#footer {
+    background-color: #000000;
+    color: #fff;
+    text-align: center;
+    padding: 7% 15%;
+}
 
 /*Media Queries*/
 
