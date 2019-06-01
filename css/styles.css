@@ -25,6 +25,21 @@
 }
 
 
+#cakes-section{
+	padding: 7% 15%;
+	text-align: center;
+}
+
+
+/*Contact Us Section*/
+
+.contact-us{
+	text-align: center;
+	padding: 7% 15%;
+	background-color: #ffc5a1;
+}
+
+
 
 /*Feaured Cupcakes Section*/
 
@@ -60,6 +75,7 @@
 
 .ul-text{
 	font-size: 1.5rem;
+	text-align: left;
 }
 
 /*Featured Cakes Images*/
@@ -70,11 +86,7 @@
 }
 
 /*Call Us Section*/
-#contact-us{
-	text-align: center;
-	padding: 7% 15%;
-	background-color: #fff;
-}
+
 
 #footer {
     background-color: #000000;
