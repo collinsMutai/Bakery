@@ -32,7 +32,6 @@
 
 
 /*Contact Us Section*/
-
 .contact-us{
 	text-align: center;
 	padding: 7% 15%;
@@ -40,6 +39,11 @@
 }
 
 
+#carouselExampleIndicators{
+	padding: 7% 15%;
+	background-color: #010101;
+
+}
 
 /*Feaured Cupcakes Section*/
 
