@@ -2,6 +2,8 @@
 <html>
 <head>
   <title>Jupiter Cake Bakery</title>
+  <!-- Google Fonts -->
+  <link href="https://fonts.googleapis.com/css?family=Indie+Flower|Ubuntu&display=swap" rel="stylesheet">
   <!-- CSS -->
   <link rel="stylesheet" type="text/css" href="css/styles.css">
   <!-- Font Awesome -->
@@ -16,38 +18,34 @@
 <body>
 <!-- Header section -->
 
-<header>
-  <nav class="navbar navbar-expand-md navbar-dark fixed-top bg-dark">
-    <a class="navbar-brand" href="#">jupiter <em>cake</em> bakery</a>
-    <button class="navbar-toggler collapsed" type="button" data-toggle="collapse" data-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation">
-      <span class="navbar-toggler-icon"></span>
-    </button>
-    <div class="navbar-collapse collapse" id="navbarCollapse" style="">
-      <ul class="navbar-nav ml-auto">
-        <li class="nav-item active">
-          <a class="nav-link" href="#home-page">Home <span class="sr-only">(current)</span></a>
-        </li>
-        <li class="nav-item">
-          <a class="nav-link" href="#">Shop</a>
-        </li>
-        <li class="nav-item">
-          <a class="nav-link " href="#">Contact Us</a>
-        </li>
-      </ul>
-      <form class="form-inline mt-2 mt-md-0">
-        <input class="form-control mr-sm-2" type="text" placeholder="Search" aria-label="Search">
-        <button class="btn btn-outline-success my-2 my-sm-0" type="submit">Search</button>
-      </form>
-    </div>
-  </nav>
-</header>
+<div id="title" class="title-section">
+<div class="container-fluid">
+<nav class="navbar navbar-expand-lg navbar-dark">
+  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarTogglerDemo03" aria-controls="navbarTogglerDemo03" aria-expanded="false" aria-label="Toggle navigation">
+    <span class="navbar-toggler-icon"></span>
+  </button>
+  
+    <a class="navbar-brand" href="#logo"><strong>jupiter cake bakery</strong></a>
+  
+  <div class="collapse navbar-collapse" id="navbarTogglerDemo03">
+    <ul class="navbar-nav  ml-auto">
+      <li class="nav-item active">
+        <a class="nav-link" href="#">Home <span class="sr-only">(current)</span></a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href="#">Shop</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href="#" tabindex="-1" >Contact Us</a>
+      </li>
+    </ul>
+    
+  </div>
 
-
-<!-- Home Section -->
-
-<div class="home">
-  <div class="container-fluid">
-      <h1 class="home-title">Welcome, Jupiter Cake Bakery!</h1>
+</nav>
+<div class="row">
+  <div class="col-lg-12">
+        <h1 class="home-title">Welcome, Jupiter Cake Bakery!</h1>
       <p class="home-text">Best bakery in town.</p>
       <p>
         <button class="btn btn-outline-light btn-lg" type="button" data-toggle="collapse" data-target="#collapseExample" aria-expanded="false" aria-controls="collapseExample">Meet The Team »
@@ -55,13 +53,28 @@
       </p>
       <div class="collapse" id="collapseExample">
   <div class="card card-body">
-    <img src="https://images.unsplash.com/photo-1446730853965-62433e868929?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60" class="owner-image">
+    <div class="row">
+       <div class="col-lg-4">
+       <img src="https://images.unsplash.com/photo-1446730853965-62433e868929?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60" class="owner-image">
     <h2 class="small-title"><em>Jupiter - Owner</em></h2>
-    <p class="paragraph-text">I loved baking since I was a little kid. Growing up around my aunties who loved cooking helped solidified my passion and gain the knowledge first hand. </p>
+    </div>
+   <div class="col-lg-8">
+     <p class="paragraph-text">I loved baking since I was a little kid. Growing up around my aunties who loved cooking helped solidified my passion and gain the knowledge first hand. </p>
+   </div>
+    </div>
+   
+    
 </div>
 </div>
     </div>
+  </div>
+
 </div>
+</div>
+
+<!-- Home Section -->
+
+
    
   
 <!-- End Home Section -->
