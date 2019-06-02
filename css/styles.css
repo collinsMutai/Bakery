@@ -8,6 +8,10 @@ font-family: 'Ubuntu', sans-serif;*/
 /*
 #feb9c8
 d2f3e0*/
+
+/*Current Colors
+#90e5b1
+#a1ffc5*/
 * {
     font-family: 'Ubuntu', sans-serif;
     text-align: center;
@@ -95,4 +99,35 @@ d2f3e0*/
     font-size: 2rem;
     color: #fff;
     line-height: 1.5;
+}
+
+
+/*Shop Section*/
+
+#shop-section {
+    padding: 7% 15%;
+}
+
+.shop-title {
+    font-size: 4.5rem;
+    font-weight: bold;
+    line-height: 1.5;
+}
+
+ul>li{
+	list-style: none;
+	text-align: left;
+	font-size: 1.5rem;
+    line-height: 1.5;
+}
+
+.shop-text {
+    font-size: 1.5rem;
+    line-height: 1.5;
+
+}
+
+.shopsub-title{
+	font-size: 3.5rem;
+	line-height: 1.5;
 }
