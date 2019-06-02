@@ -82,11 +82,6 @@ d2f3e0*/
 
 /*Carousel Section*/
 
-#carousel-section {
-    background-color: #90e5b1;
-    color: #000;
-}
-
 .carousel-inner>.carousel-item>img {
     width: 640px;
     height: 360px;
