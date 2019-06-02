@@ -102,6 +102,14 @@ d2f3e0*/
 }
 
 
+/*Cupcakes Section*/
+
+#cupcakes-section {
+    padding: 7% 15%;
+}
+
+
+
 /*Shop Section*/
 
 #shop-section {
@@ -114,10 +122,10 @@ d2f3e0*/
     line-height: 1.5;
 }
 
-ul>li{
-	list-style: none;
-	text-align: left;
-	font-size: 1.5rem;
+ul>li {
+    list-style: none;
+    text-align: left;
+    font-size: 1.5rem;
     line-height: 1.5;
 }
 
@@ -127,7 +135,7 @@ ul>li{
 
 }
 
-.shopsub-title{
-	font-size: 3.5rem;
-	line-height: 1.5;
+.shopsub-title {
+    font-size: 3.5rem;
+    line-height: 1.5;
 }
