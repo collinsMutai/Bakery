@@ -108,6 +108,18 @@ d2f3e0*/
     padding: 7% 15%;
 }
 
+.cupcakes-text {
+    font-size: 1.5rem;
+    line-height: 1.5;
+    text-align: left;
+
+}
+
+.cupcakes-title {
+    font-size: 3.5rem;
+    /*line-height: 1.5;*/
+    text-align: left;
+}
 
 
 /*Shop Section*/
