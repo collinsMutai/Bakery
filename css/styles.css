@@ -207,3 +207,17 @@ ul>li {
 .footer-icon {
     margin: 20px 10px;
 }
+
+
+/*Media Queries*/
+
+@media only screen and (max-width: 600px) {
+  .navbar-toggler-icon  {
+    
+    width: 4em;
+    height: 4em;
+    
+  }
+ 
+
+}
