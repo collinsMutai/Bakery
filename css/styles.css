@@ -151,3 +151,36 @@ ul>li {
     font-size: 3.5rem;
     line-height: 1.5;
 }
+
+/*Contact Us Section*/
+
+#contactus-section{
+	padding: 7% 15%;
+	background-color: #90e5b1;
+    color: #fff;
+}
+
+.contactus-title {
+    font-size: 4.5rem;
+    font-weight: 800;
+    line-height: 1.5;
+}
+
+.contactus-text {
+    font-size: 1.5rem;
+    line-height: 1.5;
+
+}
+
+
+/*Footer Section*/
+
+#footer{
+	padding: 7% 15%;
+	background-color: #000;
+	color: #fff;
+}
+
+.footer-icon{
+	margin: 20px 10px;
+}
