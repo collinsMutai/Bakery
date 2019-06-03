@@ -79,10 +79,12 @@ d2f3e0*/
 .owner-image {
     border-radius: 100%;
     width: 100%;
-
+	margin: 20px;
 }
 
-
+#collapseExample a{
+	margin: 20px;
+}
 
 /*Carousel Section*/
 
